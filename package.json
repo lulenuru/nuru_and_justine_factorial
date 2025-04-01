@@ -1,0 +1,23 @@
+{
+  "name": "tdd_factorial_test_last",
+  "version": "1.0.0",
+  "description": "TDD test last factorial assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lulenuru/nuru_and_justine_factorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lulenuru/nuru_and_justine_factorial/issues"
+  },
+  "homepage": "https://github.com/lulenuru/nuru_and_justine_factorial#readme",
+  "dependencies": {
+    "chai": "^5.2.0",
+    "mocha": "^11.1.0"
+  }
+}
